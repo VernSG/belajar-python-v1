@@ -23,3 +23,5 @@ Setiap folder memiliki README.md yang berisi penjelasan lebih lanjut serta conto
 1. Pilih topik yang ingin dipelajari dengan membuka folder terkait.
 2. Baca README.md di setiap folder untuk memahami konsep dasar dan contoh kode.
 3. Jalankan kode-kode contoh untuk melihat hasilnya dan eksperimen sendiri.
+
+## ©Credit: [bang alip](https://github.com/miezlearning) (inspirasi dalam membuat repo ini.)
