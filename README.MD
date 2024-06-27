@@ -15,6 +15,8 @@ Repository ini berisi materi-materi dasar untuk mempelajari bahasa pemrograman P
 - **struktur_kontrol/**:
   - **percabangan/**: Contoh kode untuk percabangan (if-else, elif).
   - **perulangan/**: Contoh kode untuk perulangan (for, while).
+- **tipe_data/**: Contoh kode untuk tipe data.
+
 
 Setiap folder memiliki README.md yang berisi penjelasan lebih lanjut serta contoh kode yang relevan untuk memudahkan pembelajaran.
 
